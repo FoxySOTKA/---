@@ -28,7 +28,9 @@
 
 ### Результат:
 скриншот браузера с открытым эндпоинтом
+<img width="674" alt="Браузер с эндпинтом" src="https://github.com/FoxySOTKA/---/assets/141597247/9e101010-cf40-4597-954f-1e83c972801b">
 
 
 скриншот списка таргетов из интерфейса Prometheus
+<img width="605" alt="Список таргетов" src="https://github.com/FoxySOTKA/---/assets/141597247/44a4b06f-a21e-4077-bdec-f0b5c7ab2abe">
 
