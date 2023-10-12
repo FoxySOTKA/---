@@ -30,7 +30,7 @@ c. Создаем базу данных
 d. Настраиваем базу данных для Zabbix сервера
 Отредактируем файл /etc/zabbix/zabbix_server.conf
 ##### nano /etc/zabbix/zabbix_server.conf
-DBPassword=123456789
+##### DBPassword=123456789
 e. Запускаем процессы Zabbix сервера 
 Запускаем процессы Zabbix сервера и настраиваем их запуск при загрузке ОС.
  ##### systemctl restart zabbix-server apache2
@@ -42,7 +42,7 @@ e. Запускаем процессы Zabbix сервера
 
 Установите Zabbix Agent на два хоста.
 
-#### Требования к результаты
+#### Pезультат:
 
 1.  скриншот раздела Configuration > Hosts:
 ![Скриншот раздела configuration](https://github.com/FoxySOTKA/---/assets/141597247/5f3462b5-926a-4904-929c-1d4e564970ef)
