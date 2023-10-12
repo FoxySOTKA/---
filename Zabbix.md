@@ -11,6 +11,8 @@
 1. скриншот авторизации в админке:
 <img width="637" alt="скриншот авторизации в админке" src="https://github.com/FoxySOTKA/---/assets/141597247/f3c2073e-8c18-4833-bde2-cd80b3baa0ae">
 
+<img width="571" alt="скриншот авторизации в админке с dashboard" src="https://github.com/FoxySOTKA/---/assets/141597247/ecc6c19f-1b3d-40cf-88fa-2c61b9cba46a">
+
 2.  текст использованных команд для установления Zabbix 6.0 LTS на Debian 12 используя компаненты
 Server, Frontend, Agent базу данных PostgreSQL и веб-сервер Apache:
 a. Устанавливаем репозиторий Zabbix
@@ -46,7 +48,7 @@ e. Запускаем процессы Zabbix сервера
 
 
 2.  скриншот лога zabbix agent:
-
+https://1drv.ms/i/s!AsxqFRXsgBtBgzFD70j3u6IqJTEb?e=ijLvSZ
 
 3.  скриншот раздела Monitoring > Latest data для обоих хостов:
 
