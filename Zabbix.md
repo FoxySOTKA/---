@@ -54,7 +54,7 @@ e. Запускаем процессы Zabbix сервера
 ![Cкриншот раздела Monitoring Latest data для обоих хостов](https://github.com/FoxySOTKA/---/assets/141597247/2b5535ed-140c-4c9e-a029-0d81cf33546a)
 
 4.  текст использованных команд для установления Zabbix Agent на два хоста:
-  
+#  
 a. Устанавливаем Zabbix агент
  ##### apt install zabbix-agent
 b. Запускаем процесс Zabbix агента
